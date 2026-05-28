@@ -1,0 +1,8 @@
+{
+  "id": "shian-helper",
+  "displayName": "诗岸",
+  "description": "静静坐在屏幕角落的安静陪伴式编码伙伴。",
+  "spritesheetPath": "spritesheet.webp",
+  "name": "诗岸",
+  "spritesheet": "spritesheet.webp"
+}
